@@ -2,7 +2,6 @@
    Resolução:'''
 
 numero = int(input("Digite um número: "))
-
 impar = (numero % 2) != 0
 
 print("O número é ímpar? ", impar)
