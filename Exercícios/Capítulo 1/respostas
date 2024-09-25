@@ -1,1 +1,10 @@
-
+1) Python foi criada por Guido van Rossum, um talentoso programador holandês, em 1991, com o objetivo de oferecer uma experiência de aprendizado e uso simples.
+2) desenvolvimento web, ciência de dados, inteligência artificial e aprendizado de máquina.
+3) B
+4) No paradigma imperativo, os programas são escritos em uma sequência de comandos que alteram o estado do programa. Os desenvolvedores podem utilizar estruturas de controle como loops e condicionais para controlar o fluxo do programa.
+   Já no paradigma orientado a objetos (OO), os programas são estruturados em classes e objetos, permitindo a representação de entidades do mundo real e suas interações. Os objetos possuem atributos e métodos que definem seu comportamento.
+   O paradigma funcional, por sua vez, enfatiza a utilização de funções puras, que não possuem efeitos colaterais e retornam um valor baseado apenas em seus argumentos.
+   Além desses paradigmas, o Python também suporta o paradigma procedural, que é semelhante ao paradigma imperativo, mas enfatiza a decomposição do programa em procedimentos ou funções.
+5) V
+   F - Python pode ser classificada como uma linguagem de tipagem dinâmica e forte.
+   F - Linguagens semi-compiladas, como Python, possuem um desempenho ligeiramente inferior a linguagens compiladas.
