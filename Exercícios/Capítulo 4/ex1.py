@@ -1,7 +1,8 @@
-'''Crie um programa que receba um número do usuário e printe false quando o número for par e true quando ímpar.
-   Resolução:'''
+'''Escreva um programa que peça o preço de um produto e aplique um desconto de 10% 
+usando o operador de atribuição adequado. Exiba o preço final com desconto.'''
 
-numero = int(input("Digite um número: "))
-impar = (numero % 2) != 0
+preco = int(input("Digite o valor do produto: "))
 
-print("O número é ímpar? ", impar)
+preco *= 0.9
+
+print("O valor do produto com desconto de 10% é: ", preco)
