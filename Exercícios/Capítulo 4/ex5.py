@@ -4,4 +4,4 @@ Depois, aumente o tempo da viagem em 3 horas usando o operador de atribuição a
 tempo = int(input("Digite o tempo de viagem: "))
 
 tempo += 3
-print("o tempo da viagem com o atraso é de ", tempo)
+print("o tempo da viagem com o atraso é de ", tempo, " horas.")
