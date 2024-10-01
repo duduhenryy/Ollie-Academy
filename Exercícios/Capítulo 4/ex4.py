@@ -10,4 +10,4 @@ incrementado += 2
 decrementado = temperatura
 decrementado -= 5
 
-print("A temperatura aumentada em 2 graus é ", incrementado, " e a temperatura diminuida em 5 graus é ", decrementado)
+print("A temperatura aumentada em 2 graus é ", incrementado, " graus e a temperatura diminuida em 5 graus é ", decrementado, " graus.")
